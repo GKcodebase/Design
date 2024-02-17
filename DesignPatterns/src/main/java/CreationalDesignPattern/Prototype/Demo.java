@@ -8,7 +8,15 @@ import CreationalDesignPattern.Prototype.shapes.Shape;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * The type Demo.
+ */
 public class Demo {
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         List<Shape> shapes = new ArrayList<>();
         List<Shape> shapesCopy = new ArrayList<>();
@@ -32,6 +40,12 @@ public class Demo {
         cloneAndCompare(shapes, shapesCopy);
     }
 
+    /**
+     * Clone and compare.
+     *
+     * @param shapes     the shapes
+     * @param shapesCopy the shapes copy
+     */
     private static void cloneAndCompare(List<Shape> shapes, List<Shape> shapesCopy) {
         for (Shape shape : shapes) {
             shapesCopy.add(shape.clone());
