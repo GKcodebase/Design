@@ -1,5 +1,7 @@
-package CreationalDesignPattern.decorators;
+package CreationalDesignPattern.decorators.out;
 
+
+import CreationalDesignPattern.decorators.*;
 
 /**
  * The type Demo.

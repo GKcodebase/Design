@@ -44,7 +44,7 @@ public class FileDataSource implements DataSource {
     public String readData() {
         char[] buffer = null;
         File file = new File(name);
-        try (   FileReader reader = new FileReader(file)) {
+        try (FileReader reader = new FileReader(file)) {
             buffer = new char[(int) file.length()];
             reader.read(buffer);
         } catch (IOException ex) {
