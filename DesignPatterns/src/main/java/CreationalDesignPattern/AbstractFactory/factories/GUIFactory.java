@@ -1,7 +1,7 @@
-package CreationalDesignPattern.Abstract.factories;
+package CreationalDesignPattern.AbstractFactory.factories;
 
-import CreationalDesignPattern.Abstract.buttons.Button;
-import CreationalDesignPattern.Abstract.checkboxes.Checkbox;
+import CreationalDesignPattern.AbstractFactory.buttons.Button;
+import CreationalDesignPattern.AbstractFactory.checkboxes.Checkbox;
 
 /**
  * The interface Gui factory.

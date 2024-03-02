@@ -1,4 +1,4 @@
-package CreationalDesignPattern.Abstract.buttons;
+package CreationalDesignPattern.AbstractFactory.buttons;
 
 /**
  * The interface Button.

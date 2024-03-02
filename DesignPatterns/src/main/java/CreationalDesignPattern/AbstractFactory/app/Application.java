@@ -1,8 +1,8 @@
-package CreationalDesignPattern.Abstract.app;
+package CreationalDesignPattern.AbstractFactory.app;
 
-import CreationalDesignPattern.Abstract.buttons.Button;
-import CreationalDesignPattern.Abstract.checkboxes.Checkbox;
-import CreationalDesignPattern.Abstract.factories.GUIFactory;
+import CreationalDesignPattern.AbstractFactory.buttons.Button;
+import CreationalDesignPattern.AbstractFactory.checkboxes.Checkbox;
+import CreationalDesignPattern.AbstractFactory.factories.GUIFactory;
 
 /**
  * The type Application.

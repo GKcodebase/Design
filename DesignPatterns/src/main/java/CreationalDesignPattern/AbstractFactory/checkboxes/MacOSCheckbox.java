@@ -1,4 +1,4 @@
-package CreationalDesignPattern.Abstract.checkboxes;
+package CreationalDesignPattern.AbstractFactory.checkboxes;
 
 /**
  * The type Mac os checkbox.

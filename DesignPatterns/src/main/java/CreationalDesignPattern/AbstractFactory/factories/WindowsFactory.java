@@ -1,9 +1,9 @@
-package CreationalDesignPattern.Abstract.factories;
+package CreationalDesignPattern.AbstractFactory.factories;
 
-import CreationalDesignPattern.Abstract.buttons.Button;
-import CreationalDesignPattern.Abstract.buttons.WindowsButton;
-import CreationalDesignPattern.Abstract.checkboxes.Checkbox;
-import CreationalDesignPattern.Abstract.checkboxes.WindowsCheckbox;
+import CreationalDesignPattern.AbstractFactory.buttons.Button;
+import CreationalDesignPattern.AbstractFactory.buttons.WindowsButton;
+import CreationalDesignPattern.AbstractFactory.checkboxes.Checkbox;
+import CreationalDesignPattern.AbstractFactory.checkboxes.WindowsCheckbox;
 
 
 /**

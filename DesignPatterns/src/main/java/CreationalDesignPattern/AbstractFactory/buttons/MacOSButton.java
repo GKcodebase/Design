@@ -1,4 +1,4 @@
-package CreationalDesignPattern.Abstract.buttons;
+package CreationalDesignPattern.AbstractFactory.buttons;
 
 /**
  * The type Mac os button.

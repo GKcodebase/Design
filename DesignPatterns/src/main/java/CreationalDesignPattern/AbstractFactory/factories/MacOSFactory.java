@@ -1,9 +1,9 @@
-package CreationalDesignPattern.Abstract.factories;
+package CreationalDesignPattern.AbstractFactory.factories;
 
-import CreationalDesignPattern.Abstract.buttons.Button;
-import CreationalDesignPattern.Abstract.buttons.MacOSButton;
-import CreationalDesignPattern.Abstract.checkboxes.Checkbox;
-import CreationalDesignPattern.Abstract.checkboxes.MacOSCheckbox;
+import CreationalDesignPattern.AbstractFactory.buttons.Button;
+import CreationalDesignPattern.AbstractFactory.buttons.MacOSButton;
+import CreationalDesignPattern.AbstractFactory.checkboxes.Checkbox;
+import CreationalDesignPattern.AbstractFactory.checkboxes.MacOSCheckbox;
 
 /**
  * The type Mac os factory.

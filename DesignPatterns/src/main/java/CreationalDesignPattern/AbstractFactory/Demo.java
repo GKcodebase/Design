@@ -1,9 +1,9 @@
-package CreationalDesignPattern.Abstract;
+package CreationalDesignPattern.AbstractFactory;
 
-import CreationalDesignPattern.Abstract.app.Application;
-import CreationalDesignPattern.Abstract.factories.GUIFactory;
-import CreationalDesignPattern.Abstract.factories.MacOSFactory;
-import CreationalDesignPattern.Abstract.factories.WindowsFactory;
+import CreationalDesignPattern.AbstractFactory.app.Application;
+import CreationalDesignPattern.AbstractFactory.factories.GUIFactory;
+import CreationalDesignPattern.AbstractFactory.factories.MacOSFactory;
+import CreationalDesignPattern.AbstractFactory.factories.WindowsFactory;
 
 /**
  * The type Demo.
