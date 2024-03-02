@@ -1,8 +1,5 @@
 package StructuralDesignPatterns.Decorators.Decorators.out;
 
-
-import CreationalDesignPattern.Decorators.*;
-import StructuralDesignPatterns.Adapter.Decorators.*;
 import StructuralDesignPatterns.Decorators.Decorators.*;
 
 /**
