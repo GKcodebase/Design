@@ -31,7 +31,7 @@ public class InterfaceSegregation {
         void eat();
     }
 
-    class Robot implements Workable {
+    class RobotRefactored implements Workable {
         @Override
         public void work() {
             // Code for robot to work
