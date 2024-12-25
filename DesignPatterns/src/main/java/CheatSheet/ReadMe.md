@@ -27,7 +27,12 @@
                           eg  - Logger Interface being passed through multiple implementation.
     2.Command                 - Turns a request into a stand-alone object that contains all information about the request.
                           eg  - Command Interface implementing by Light On and Light Off and remote using these.
-    
+    3.State                   - Object alter its behavior when its internal state changes.
+                          eg  - Media player changing it state as playing, paused, start, stop etc.
+    4.Template                - Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+                          eg  - Abstaract DataMiner class with abstract and concrete methods and Subclass overides template methods.
+
+
 
 
     
