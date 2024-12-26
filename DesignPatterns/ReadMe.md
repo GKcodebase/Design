@@ -31,6 +31,10 @@
                           eg  - Media player changing it state as playing, paused, start, stop etc.
     4.Template                - Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
                           eg  - Abstaract DataMiner class with abstract and concrete methods and Subclass overides template methods.
+    5.Observer                -  define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
+                          eg  - Consumer - producer patterns
+    6.Strategy                - family of algorithms, put each of them into a separate class, and make their objects interchangeable
+                          eg  - Payment Interface , Different Payment methods and a checkout method using these as required.
 
 
 
