@@ -60,7 +60,7 @@ Low level design exploration of classic examples.
         
         1.HahsMap
         2.NULL Object Design
-        3.TicTacToe
+        3.TicTacToe.
         4.Vending Machine.
 
 ## Contributing
