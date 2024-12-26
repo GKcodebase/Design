@@ -58,8 +58,8 @@ Detailed implementations of specific design patterns, providing practical exampl
 ## Low Level Designs
 Low level design exploration of classic examples.
         
-        1.HahsMap
-        2.NULL Object Design
+        1.HahsMap.
+        2.NULL Object Design.
         3.TicTacToe.
         4.Vending Machine.
 
