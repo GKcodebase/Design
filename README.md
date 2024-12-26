@@ -5,12 +5,12 @@ This repository provides resources and detailed implementations related to Objec
 ## Table of Contents
 
 1. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-2. [SOLID](#SOLID)
+2. [SOLID](#solid)
 3. [Object-Oriented Design (OOD)](#object-oriented-design-ood)
 4. [Object-Oriented Design Principles](#object-oriented-design-principles)
 5. [Design Patterns](#design-patterns)
 6. [Design Patterns Detailed Implementation](#design-patterns-detailed-implementation)
-7. [Low Level Designs](#Low Level Designs)
+7. [Low Level Designs](#low-level-designs)
 
 
 ## Object-Oriented Programming (OOP)
