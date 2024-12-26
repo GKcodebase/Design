@@ -1,4 +1,4 @@
-package LLD.NULLObjectDesign;
+package NULLObjectDesign;
 
 
 /**

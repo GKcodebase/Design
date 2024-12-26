@@ -1,4 +1,4 @@
-package LLD.TicTacToe;
+package TicTacToe;
 
 /**
  * The enum Piece.

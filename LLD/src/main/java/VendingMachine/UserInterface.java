@@ -1,4 +1,4 @@
-package LLD.VendingMachine;
+package VendingMachine;
 
 /**
  * The type User interface.

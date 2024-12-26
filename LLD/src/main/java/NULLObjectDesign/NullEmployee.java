@@ -1,4 +1,4 @@
-package LLD.NULLObjectDesign;
+package NULLObjectDesign;
 
 /**
  * The type Null employee.
