@@ -1,4 +1,4 @@
-package CheatSheet.BehaviourialDesignPattern;
+package BehaviourialDesignPattern;
 
 import java.util.ArrayList;
 import java.util.List;

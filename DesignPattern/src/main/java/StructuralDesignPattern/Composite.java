@@ -1,4 +1,4 @@
-package CheatSheet.StructuralDesignPattern;
+package StructuralDesignPattern;
 
 import java.util.ArrayList;
 import java.util.List;

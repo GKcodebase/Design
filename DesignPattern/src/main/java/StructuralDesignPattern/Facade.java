@@ -1,4 +1,4 @@
-package CheatSheet.StructuralDesignPattern;
+package StructuralDesignPattern;
 
 /**
  * The Facade.

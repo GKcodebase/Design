@@ -1,4 +1,4 @@
-package CheatSheet.CreationalDesignPattern;
+package CreationalDesignPattern;
 
 /**
  * The Abstract factory.

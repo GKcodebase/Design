@@ -1,4 +1,4 @@
-package CheatSheet.BehaviourialDesignPattern;
+package BehaviourialDesignPattern;
 
 /**
  * The Template.

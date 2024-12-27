@@ -1,4 +1,4 @@
-package CheatSheet.CreationalDesignPattern;
+package CreationalDesignPattern;
 
 import java.util.ArrayList;
 import java.util.List;
