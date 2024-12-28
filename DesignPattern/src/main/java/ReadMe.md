@@ -20,6 +20,13 @@
              eg - Coffe Decortor wrapper can be added to use sugar and milk wrapper to get total cost.
     4.Facade    - simplified interface to a library, a framework, or any other complex set of classes.
              eg - Computer Facade will be having all cpu, memory and storage inside.
+    5.Flyweight - fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+             eg - When we need to spawn large number of same objects, like particles in game.
+    6.Bridge    - split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other
+             eg - A shape class Containing a DrawApi , which can be implemented for any coloured shape
+    7.proxy     - Lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+             eg - A Credit card is proxy for bank and inturn proxy for cash.
+    
 
 ### Behavioural Design patterns
     
@@ -31,10 +38,19 @@
                           eg  - Media player changing it state as playing, paused, start, stop etc.
     4.Template                - Defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
                           eg  - Abstaract DataMiner class with abstract and concrete methods and Subclass overides template methods.
-    5.Observer                -  define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
+    5.Observer                - Define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
                           eg  - Consumer - producer patterns
     6.Strategy                - family of algorithms, put each of them into a separate class, and make their objects interchangeable
                           eg  - Payment Interface , Different Payment methods and a checkout method using these as required.
+    7.Mediator                - reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+                          eg  - ChatUser use chat rooms via a chat mediator.
+    8.Iterator                - Lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+                          eg  - Normal Iterator class
+    9.Memento                 - Lets you save and restore the previous state of an object without revealing the details of its implementation.
+                          eg  - Like in editing app, previous state can be stored and retrieved using a EditMomento
+    10.Visitor                - Separate algorithms from the objects on which they operate.
+                          eg  - Using different area calculator visitor for rectangle and circle.
+
 
 
 
