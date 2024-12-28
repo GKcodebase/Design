@@ -11,6 +11,7 @@ This repository provides resources and detailed implementations related to Objec
 5. [Design Patterns](#design-patterns)
 6. [Design Patterns Detailed Implementation](#design-patterns-detailed-implementation)
 7. [Low Level Designs](#low-level-designs)
+8. [Antipatterns](#antipatterns)
 
 
 ## Object-Oriented Programming (OOP)
@@ -62,6 +63,9 @@ Low level design exploration of classic examples.
         2.NULL Object Design.
         3.TicTacToe.
         4.Vending Machine.
+
+## Antipatterns
+Common anti-patterns in java, and their solutions.
 
 ## Contributing
 
