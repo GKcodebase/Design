@@ -22,23 +22,19 @@ Understanding the fundamental principles of Object-Oriented Programming (OOP), i
         2. Encapsulation
         3. Inheritance
         4. Polymorphism
+ 
+## Object-Oriented Design (OOD)
 
-## SOLID
-SOLID Principles 
+Learn about Object-Oriented Design (OOD), which involves designing software using objects and classes, focusing on modularity, reusability, and maintainability.
+
+### SOLID
+SOLID Principles
 
         1.Single Responsibility Principle.
         2.Open and Close Principle.
         3.Liskov Substitution principle.
         4.Interface Seggregation principle.
         5.Dependency Inversion principle.
-    
-## Object-Oriented Design (OOD)
-
-Learn about Object-Oriented Design (OOD), which involves designing software using objects and classes, focusing on modularity, reusability, and maintainability.
-
-## Object-Oriented Design Principles
-
-Explore the key principles of Object-Oriented Design, including SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion), which guide the design of clean and maintainable code.
 
 ## Design Patterns
 
